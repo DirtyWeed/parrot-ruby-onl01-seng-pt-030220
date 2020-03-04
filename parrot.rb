@@ -1,2 +1,2 @@
-def put_and_return_parrot(phrase="Squawk!")
+def parrot(phrase="Squawk!")
 end
